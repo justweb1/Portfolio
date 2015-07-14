@@ -1,11 +1,11 @@
-#title {
-	font-family: 'Architects Daughter', cursive;
-	}
-
-#subtitle {
+.page-title {
 	font-family: 'Architects Daughter', cursive;
 }
 
-#gallery {
+.page-subtitle {
+	font-family: 'Architects Daughter', cursive;
+}
+
+.portfolio-gallery {
 	margin-top: 20px;
 }
